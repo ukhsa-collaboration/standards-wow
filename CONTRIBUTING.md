@@ -338,7 +338,7 @@ Resolves issue #123"
 You can view your docs in the `docs/` directory by running this command:
 
 ```bash
-npm run serve
+npm run start
 ```
 
 This uses docker to host your docs under the hood.
