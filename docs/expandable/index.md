@@ -1,8 +1,8 @@
 ---
-caption: Standards Template
+caption: Ways of Working
 includeInBreadcrumbs: true
 eleventyNavigation:
-  parent: standards-template
+  parent: wow
 order: 4
 ---
 

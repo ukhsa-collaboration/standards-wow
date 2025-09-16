@@ -78,9 +78,8 @@ There are several types of callout you can use:
 
 ### And more!
 
-Checkout any markdown cheatsheet for more info, [for example this one][4].
+Checkout any markdown cheatsheet for more info, [for example this one][3].
 
 [1]: https://www.gov.uk/government/organisations/uk-health-security-agency
 [2]: example1.md
-[3]: assets/images/image.jpg
-[4]: https://www.markdownguide.org/cheat-sheet/
+[3]: https://www.markdownguide.org/cheat-sheet/

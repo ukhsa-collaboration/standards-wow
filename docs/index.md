@@ -1,12 +1,13 @@
 ---
-caption: Standards Template
+caption: Ways of Working
 includeInBreadcrumbs: true
 eleventyNavigation:
   parent: home
+  key: wow
 order: 1
 ---
 
-# Standards Template
+# Ways of Working
 
 This is the index page for your documentation, update it with your own content!
 

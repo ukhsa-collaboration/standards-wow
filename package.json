@@ -1,7 +1,7 @@
 {
-  "name": "standards-template",
+  "name": "standards-wow",
   "version": "0.0.1",
-  "description": "UKHSA standards template repository for teams to create their own standards documentation.",
+  "description": "UKHSA ways of working documentation.",
   "type": "module",
   "scripts": {
     "fmt:md": "remark . --ext .md --output",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ukhsa-collaboration/standards-template.git"
+    "url": "git+https://github.com/ukhsa-collaboration/standards-wow.git"
   },
-  "homepage": "https://github.com/ukhsa-collaboration/standards-template",
+  "homepage": "https://github.com/ukhsa-collaboration/standards-wow",
   "license": "MIT",
   "engines": {
     "npm": "10",
